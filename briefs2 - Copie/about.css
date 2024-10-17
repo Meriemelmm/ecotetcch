@@ -38,10 +38,45 @@
       
   
     }
-    .img1 {
-      width: 20%;
-      height:20%; 
-      margin-left: auto;
-     
-      
-  }
+    .img_text{
+      display: flex;
+      width:100%;
+      justify-content: space-between;
+    }
+    .img_right{
+      display: flex;
+margin-left: 5%;
+width:600px;
+height: 480px;
+transform: translateY(15%);
+margin-top:2% ;
+    }
+   .content{
+    margin-top: 5%;
+    transform: translateX(350PX);
+    
+
+
+   }
+   .title{
+    font-size: medium;
+    line: height 1.5em; ;
+   }
+    .paragraphe{
+      font-size:14px ;
+      line-height: 1.3em;
+    }
+    .part2{
+      display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: repeat(2, 1fr); 
+  margin-top:1000x;
+    width: 1;
+   
+
+}
+ .text_img{
+  display: flex;
+  
+  
+}
