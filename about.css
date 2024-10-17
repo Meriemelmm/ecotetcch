@@ -93,3 +93,7 @@ margin-top:2% ;
   display:flex;
   justify-content: space-between;
 }
+.mg_txx{
+  display: flex;
+  justify-content: space-between;
+}
