@@ -97,3 +97,25 @@ margin-top:2% ;
   display: flex;
   justify-content: space-between;
 }
+.top_footer {
+  display: flex;
+  justify-content:space-around;
+}
+.lista_inst{
+  display:flex;
+  justify-content: space-between;
+}
+.list ul{
+  display:flex;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.list  ul li{
+  display: flex;
+  justify-content: space-between;
+
+}
+.inst{
+  display: flex;
+  justify-content: space-evenly;
+}

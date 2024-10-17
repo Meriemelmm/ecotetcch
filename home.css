@@ -43,6 +43,9 @@ color:#FFFFFF;
    
   }
   
+  .container{
+    display:flex;
+  }
   img{
    height:100%;
   
@@ -55,6 +58,7 @@ color:#FFFFFF;
   .content{
   text-align: center;
   margin-left:15% ;
+  
 
   padding: 15%;
   position:relative;
