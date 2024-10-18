@@ -120,6 +120,7 @@ margin-top:2% ;
 .first_part{
   display: flex;
   background-color: #F7F7F7;
+
   
  
  
@@ -160,6 +161,7 @@ margin-top:140px ;
   height:500px;
   margin:auto;
   justify-content: space-between;
+  
  
 }
 .imager{transform: translateX(-150px);
@@ -193,6 +195,7 @@ border-radius:3px ;
   background-color:#F2F5FF ; 
   color:#939EA4; 
   padding: 20px 0; 
+  margin-top: 300px;
   font-family: Arial, sans-serif; 
 }
 
@@ -261,13 +264,15 @@ border-radius:3px ;
 
 .inst {
   display: flex; 
-  gap: 15px; 
+ 
 }
 
 .inst img {
   width: 24px; 
   height: auto; 
-  transition: transform 0.3s; 
+  transition: transform 0.3s;
+  margin-left: 20px;
+ justify-content: space-between;
 }
 
 .inst img:hover {
